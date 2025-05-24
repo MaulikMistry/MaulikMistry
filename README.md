@@ -1,3 +1,4 @@
+![Header](https://github.com/MaulikMistry/MaulikMistry/blob/main/image%20(2).png)
 
 <h1 align="center">Hi there, I'm Maulik 👋</h1>
 
