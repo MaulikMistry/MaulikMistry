@@ -7,10 +7,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** and **Android app enthusiast** with a keen interest in building efficient and innovative solutions. My journey in coding started with a fascination for how technology can bring ideas to life, and I've been passionately pursuing it ever since.
+I'm a **Full Stack Developer** with a keen interest in building efficient and innovative solutions. My journey in coding started with a fascination for how technology can bring ideas to life, and I've been passionately pursuing it ever since.
 
-- 🌱 Learning **Node.js**, **Next.js**, and **Advanced React**
-- 💬 Ask me about **React**, **Node.js**, **Next.js**, and **PHP**
+- 🌱 Learning **Node.js**, **Next.js**, **Vue.js**, and **Advanced React**
+- 💬 Ask me about **React**, **Node.js**, **Next.js**, **Vue.js**, and **PHP**
 - 📫 Reach me at **[maulikmistry2496@gmail.com](mailto:maulikmistry2496@gmail.com)**
 - ⚡ Fun fact: I believe a cup of coffee can magically turn code into bug-free masterpieces!
 
@@ -31,6 +31,7 @@ I'm a **MERN Stack Developer** and **Android app enthusiast** with a keen intere
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -43,6 +44,7 @@ I'm a **MERN Stack Developer** and **Android app enthusiast** with a keen intere
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-LARAVEL-red?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL" />
+  <img src="https://img.shields.io/badge/-CodeIgniter-orange?style=for-the-badge&logo=codeignitor&logoColor=white" alt="Codeignitor" />
 </p>
 
 #### ⚒ Tools and Version Control
@@ -68,7 +70,7 @@ I'm a **MERN Stack Developer** and **Android app enthusiast** with a keen intere
 ---
 
 - **Contributor to Open Source Projects**
-- **Built multiple full-stack applications using MERN stack**
+- **Built multiple full-stack applications using MERN stack and PHP**
 
 ---
 
